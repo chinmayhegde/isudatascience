@@ -1,4 +1,4 @@
-name: ISU Data Science
+name: ISU Machine Learning
 url: http://chinmay.public.iastate.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -6,10 +6,10 @@ exclude: [bibble, README.md, Makefile, screenshot.png]
 # use this library to parse Markdown
 markdown: redcarpet
 redcarpet:
-    extensions: [smart, tables]
+    extensions: [smart, tables, with_toc_data, strikethrough]
 
 # colorize code snippets with the pygments module
-highlighters: 'pygments'
+highlighters: pygments
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
@@ -28,6 +28,10 @@ front_page_news: 5
 
 # Base pathname for links.
 base: ''
+
+collections:
+  projects:
+    output: true
 
 # Navigation bar links.
 navigation:
