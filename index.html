@@ -7,9 +7,6 @@ role_groups:
     - [faculty, affiliate]
     - [grad]
 
-role_remain:
-    - [collab, ugrad, ugrad-alum]
-    - [alum]
 ---
 <div class="jumbotron">
   <p>
@@ -21,7 +18,7 @@ role_remain:
 
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'grad' %}8{% else %}4{% endif %}">
+    <div class="col-md-{% if grp contains 'faculty' %}4{% else %}4{% endif %}">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>

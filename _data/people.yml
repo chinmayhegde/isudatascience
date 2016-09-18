@@ -10,12 +10,14 @@ mingyi:
     display_name: "Mingyi Hong"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: faculty
+    image: /img/logo.png
     bio: |
         Assistant Professor, IMSE
 
 srikanta:
     display_name: "Srikanta Tirthapura"
     role: faculty
+    image: /img/logo.png
     webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
     bio: |
         Professor, ECPE
@@ -23,6 +25,7 @@ srikanta:
 namrata:
     display_name: "Namrata Vaswani"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    image: /img/logo.png
     role: faculty
     bio: |
         Professor, ECPE
@@ -31,12 +34,14 @@ zhengdao:
     display_name: "Zhengdao Wang"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     role: faculty
+    image: /img/logo.png
     bio: |
         Professor, ECPE
 
 julie:
     display_name: "Julie Dickerson"
     role: affiliate
+    image: /img/logo.png
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     bio: |
         Professor, ECPE
@@ -44,6 +49,7 @@ julie:
 neil:
     display_name: "Neil Gong"
     role: affiliate
+    image: /img/logo.png
     webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
     bio: |
         Assistant Professor, ECPE
@@ -51,6 +57,7 @@ neil:
 aditya:
     display_name: "Aditya Ramamoorthy"
     webpage: "https://en.wikipedia.org/wiki/Hulk"
+    image: /img/logo.png
     role: affiliate
     bio: |
         Professor, ECPE
