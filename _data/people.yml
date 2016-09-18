@@ -1,29 +1,55 @@
-profx:
-    display_name: "Professor X"
+chin:
+    display_name: "Chinmay Hegde"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
     role: faculty
     bio: |
-        Professor X is the leader and founder of X-Men. 
-melody:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    bio: |
-        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+        Machine learning, algorithm design, signal and image processing
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
+mingyi:
+    display_name: "Mingyi Hong"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
+    role: faculty
+    bio: |
+        Machine learning, optimization
 
-jean:
-    display_name: "Jean Grey"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+namrata:
+    display_name: "Namrata Vaswani"
+    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    role: faculty
+    bio: |
+        Machine learning, statistical signal processing
+
+zhengdao:
+    display_name: "Zhengdao Wang"
+    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    role: faculty
+    bio: |
+        Information theory, machine learning
+
+aditya:
+    display_name: "Aditya Ramamoorthy"
+    webpage: "https://en.wikipedia.org/wiki/Hulk"
+    role: affiliate
+    bio: |
+        Information theory, databases
+
+srikanta:
+    display_name: "Srikanta Tirthapura"
+    role: faculty
+    webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
+    bio: |
+        Distributed computing, algorithms, databases
+
+julie:
+    display_name: "Julie Dickerson"
+    role: affiliate
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    bio: |
+        Bioinformatics
+
+neil:
+    display_name: "Neil Gong"
+    role: affiliate
+    webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
+    bio: |
+        Privacy, security
