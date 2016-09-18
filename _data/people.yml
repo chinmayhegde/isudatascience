@@ -2,62 +2,47 @@ chin:
     display_name: "Chinmay Hegde"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     role: faculty
-    image: /img/logo.png
-    bio: |
-        Assistant Professor, ECPE
+    bio: Assistant Professor, ECPE
 
 mingyi:
     display_name: "Mingyi Hong"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: faculty
-    image: /img/logo.png
-    bio: |
-        Assistant Professor, IMSE
-
-srikanta:
-    display_name: "Srikanta Tirthapura"
-    role: faculty
-    image: /img/logo.png
-    webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
-    bio: |
-        Professor, ECPE
+    bio: Assistant Professor, IMSE
 
 namrata:
     display_name: "Namrata Vaswani"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    image: /img/logo.png
     role: faculty
-    bio: |
-        Professor, ECPE
+    bio: Professor, ECPE
 
 zhengdao:
     display_name: "Zhengdao Wang"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     role: faculty
-    image: /img/logo.png
-    bio: |
-        Professor, ECPE
+    bio: Professor, ECPE
 
-julie:
-    display_name: "Julie Dickerson"
-    role: affiliate
-    image: /img/logo.png
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    bio: |
-        Professor, ECPE
 
-neil:
-    display_name: "Neil Gong"
+srikanta:
+    display_name: "Srikanta Tirthapura"
     role: affiliate
-    image: /img/logo.png
     webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
-    bio: |
-        Assistant Professor, ECPE
+    bio: Professor, ECPE
 
 aditya:
     display_name: "Aditya Ramamoorthy"
     webpage: "https://en.wikipedia.org/wiki/Hulk"
-    image: /img/logo.png
     role: affiliate
-    bio: |
-        Professor, ECPE
+    bio: Associate Professor, ECPE
+
+julie:
+    display_name: "Julie Dickerson"
+    role: affiliate
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    bio: Professor, ECPE
+
+neil:
+    display_name: "Neil Gong"
+    role: affiliate
+    webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
+    bio: Assistant Professor, ECPE

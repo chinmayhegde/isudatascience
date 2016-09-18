@@ -4,24 +4,26 @@ title: Home
 notitle: true
 
 role_groups:
-    - [faculty, affiliate]
-    - [grad]
+    - [faculty]
+    - [affiliate]
 
 ---
+
 <div class="jumbotron">
   <p>
-    <b>ISU Machine Learning</b> is an inter-disciplinary group of researchers at Iowa State who focus on various aspects of machine learning. Our collective research interests span theory, algorithms, and applications.
+    <b>The ISU Data Science Group</b> is an inter-disciplinary group of researchers who focus on various aspects of theoretical and applied data science and engineering.
   </p>
 </div>
 
-<h2>People</h2>
 
+
+<h2>People</h2>
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'faculty' %}4{% else %}4{% endif %}">
+    <div class="col-xs-6">
         {% for role in site.roles %}
         {% if grp contains role.key %}
-            <h3>{{ role.name }}</h3>
+<!--            <h3>{{ role.name }}</h3> -->
             <ul class="people {{ role.key }}">
             {% for item in site.data.people %}
                 {% assign person = item[1] %}
@@ -62,25 +64,16 @@ role_groups:
 
 
 <h2>News</h2>
-<ul class="news list-unstyled">
+<ul class="news">
 {% for post in site.posts limit: site.front_page_news %}
-    {% if post.shortnews %}
-        <li class="shortnews">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            {{ post.content }}
-        </li>
-    {% else %}
-        <li class="bloglink">
-            <span class="date">{{ post.date | date_to_long_string }}</span>
-            <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
-        </li>
-    {% endif %}
+{% include news-item.html item=post %}
 {% endfor %}
+    {% assign numposts = site.posts | size %}
+    <li>
+        <div class="icon"><i class="fa fa-history"></i></div>
+        <div class="text"><a href="{{ site.base }}/{% if numposts >= site.front_page_news %}blog/{%else%}oldnews.html{%endif%}">Older news&hellip;</a></div>
+    </li>
 </ul>
-{% assign numposts = site.posts | size %}
-{% if numposts >= site.front_page_news %}
-<p><a href="{{ site.base }}/blog/">Older posts&hellip;</a></p>
-{% endif %}
 
 
 <h2>Funding</h2>
