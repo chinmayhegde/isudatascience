@@ -1,48 +1,23 @@
 chin:
     display_name: "Chinmay Hegde"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "http://home.engineering.iastate.edu/~chinmay/"
     role: faculty
     bio: Assistant Professor, ECPE
 
 mingyi:
     display_name: "Mingyi Hong"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    webpage: "http://www.public.iastate.edu/~mingyi/mingyi.html"
     role: faculty
     bio: Assistant Professor, IMSE
 
 namrata:
     display_name: "Namrata Vaswani"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    webpage: "http://www.ece.iastate.edu/~namrata/"
     role: faculty
     bio: Professor, ECPE
 
 zhengdao:
     display_name: "Zhengdao Wang"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    webpage: "http://renyi.ece.iastate.edu/zhengdao/"
     role: faculty
     bio: Professor, ECPE
-
-
-srikanta:
-    display_name: "Srikanta Tirthapura"
-    role: affiliate
-    webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
-    bio: Professor, ECPE
-
-aditya:
-    display_name: "Aditya Ramamoorthy"
-    webpage: "https://en.wikipedia.org/wiki/Hulk"
-    role: affiliate
-    bio: Associate Professor, ECPE
-
-julie:
-    display_name: "Julie Dickerson"
-    role: affiliate
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    bio: Professor, ECPE
-
-neil:
-    display_name: "Neil Gong"
-    role: affiliate
-    webpage: "https://en.wikipedia.org/wiki/Doctor_Strange"
-    bio: Assistant Professor, ECPE
