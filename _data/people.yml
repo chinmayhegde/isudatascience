@@ -2,22 +2,26 @@ chin:
     display_name: "Chinmay Hegde"
     webpage: "http://home.engineering.iastate.edu/~chinmay/"
     role: faculty
+    image: /img/chin2.png
     bio: Assistant Professor, ECPE
 
 mingyi:
     display_name: "Mingyi Hong"
     webpage: "http://www.public.iastate.edu/~mingyi/mingyi.html"
     role: faculty
+    image: /img/Mingyi_Hong.jpg
     bio: Assistant Professor, IMSE
 
 namrata:
     display_name: "Namrata Vaswani"
     webpage: "http://www.ece.iastate.edu/~namrata/"
     role: faculty
+    image: /img/VaswaniNamrata.jpg
     bio: Professor, ECPE
 
 zhengdao:
     display_name: "Zhengdao Wang"
     webpage: "http://renyi.ece.iastate.edu/zhengdao/"
     role: faculty
+    image: /img/zw-2012.jpg
     bio: Professor, ECPE
