@@ -3,7 +3,7 @@ chin:
     webpage: "http://home.engineering.iastate.edu/~chinmay/"
     role: faculty
     image: /img/chin2.png
-    bio: Assistant Professor, ECPE
+    bio: I am an assistant professor in the Electrical and Computer Engineering Department at Iowa State University. I am interested broadly in problems related to data processing and machine learning. My research focuses on developing fast and robust algorithms for diverse problems in data sensing and inference. Prior to joining ISU, I was a post-doctoral associate in the Theory of Computation (TOC) group at MIT where I worked with Piotr Indyk. I received my Ph.D. at Rice University under the supervision of Rich Baraniuk.
 
 mingyi:
     display_name: "Mingyi Hong"
