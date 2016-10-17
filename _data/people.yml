@@ -3,25 +3,33 @@ chin:
     webpage: "http://home.engineering.iastate.edu/~chinmay/"
     role: faculty
     image: /img/chin2.png
-    bio: I am an assistant professor in the Electrical and Computer Engineering Department at Iowa State University. I am interested broadly in problems related to data processing and machine learning. My research focuses on developing fast and robust algorithms for diverse problems in data sensing and inference. Prior to joining ISU, I was a post-doctoral associate in the Theory of Computation (TOC) group at MIT where I worked with Piotr Indyk. I received my Ph.D. at Rice University under the supervision of Rich Baraniuk.
+    bio: Chinmay Hegde is an assistant professor in the [Electrical and Computer Engineering](http://www.ece.iastate.edu/) Department at Iowa State University. He is interested broadly in problems related to data processing and machine learning. His research focuses on developing fast and robust algorithms for diverse problems in data sensing and inference. Prior to joining ISU, he was a post-doctoral associate in the Theory of Computation (TOC) group at [MIT](http://www.mit.edu/) where he worked with [Piotr Indyk](http://people.csail.mit.edu/indyk/). He received my Ph.D. at [Rice University](http://www.rice.edu/) under the supervision of [Rich Baraniuk](http://web.ece.rice.edu/richb/).
 
 mingyi:
     display_name: "Mingyi Hong"
     webpage: "http://www.public.iastate.edu/~mingyi/mingyi.html"
     role: faculty
     image: /img/Mingyi_Hong.jpg
-    bio: Assistant Professor, IMSE
+    bio: Mingyi Hong (Email: mingyi@iastate.edu) received his B.E. degree in Communications Engineering from Zhejiang University, China, in 2005, his M.S. degree in Electrical Engineering from Stony Brook University in 2007, and Ph.D. degree in Systems Engineering from University of Virginia in 2011. He has been a Research Assistant Professor with the Department of Electrical and Computer Engineering, University of Minnesota, Twin Cities. He is currently an Assistant Professor with the Department of Industrial and Manufacturing Systems Engineering, and Electrical and Computer Engineering (by courtesy), Iowa State University, Ames. His research interests include theory and methods for large-scale optimization and its applications in signal processing, machine learning and wireless networks.
 
 namrata:
     display_name: "Namrata Vaswani"
     webpage: "http://www.ece.iastate.edu/~namrata/"
     role: faculty
     image: /img/VaswaniNamrata.jpg
-    bio: Professor, ECPE
+    bio: Namrata Vaswani received a B.Tech. from the [Indian Institute of Technology (IIT-Delhi)](http://www.iitd.ernet.in/deptt/ee/), in 1999 and a Ph.D. from the [University of Maryland, College Park](http://www.ece.umd.edu/), in 2004, both in Electrical Engineering. During 2004-05, she was a postdoc and research scientist at Georgia Tech. Since Fall 2005, she has been with the [Iowa State University](http://www.iastate.edu/) where she is currently a Professor of [Electrical and Computer Engineering](http://www.ece.iastate.edu/). She also holds a courtesy appointment in Mathematics. Her research interests lie at the intersection of data science and machine learning for high dimensional problems, signal and information processing, and computer vision and bio-imaging. Her most recent work has been on provably correct and practically useful algorithms for correlated-PCA, dynamic robust PCA and dynamic compressive sensing.
+ 
+Prof. Vaswani has served one term as an [Associate Editor for the IEEE Transactions on Signal Processing](http://www.signalprocessingsociety.org/publications/periodicals/tsp/) (2009-2012). She is a recipient of the Harpole-Pentair Assistant Professorship at Iowa State (2008-09), the Iowa State Early Career Engineering Faculty Research Award (2014) and the [IEEE Signal Processing Society Best Paper Award](http://www.signalprocessingsociety.org/awards-fellows/awardspage/best-paper/) (2014) for her [Modified-CS paper](http://www.ece.iastate.edu/~namrata/modcsjournal.pdf) (IEEE Trans. Sig. Proc. 2010).
 
 zhengdao:
     display_name: "Zhengdao Wang"
     webpage: "http://renyi.ece.iastate.edu/zhengdao/"
     role: faculty
     image: /img/zw-2012.jpg
-    bio: Professor, ECPE
+    bio: Zhengdao Wang received his Bachelor degree in Electronic Engineering and Information Science from the University of Science and Technology of China (USTC) in 1996, the M.S. degree in Electrical and Computer Engineering from the University of Virginia in 1999, and Ph.D. degree in Electrical and Computer Engineering from the University of Minnesota in 2002. From 2002, he has been on the faculty of the Department of Electrical and Computer Engineering in the Iowa State University, where he is currently a professor. He held a visiting professorship from USTC from 2012 to 2015.
+
+He received the Procter & Gamble Fellowship from the USTC in 1992, an Excellent Youth Award from the USTC in 1995, an Outstanding Graduate Award from the USTC in 1996, an Outstanding Graduate Award from Anhui Province of China in 1996, a Graduate Fellowship from the University of Virginia in 1997, and a Graduate School Doctoral Dissertation Fellowship from the University of Minnesota in 2001. At Iowa State University, he received an Early Career Engineering Faculty Research Award and an ECE Warren B. Boast Undergraduate Teaching Award both in 2010. He received the IEEE Signal Processing Society Best Magazine Paper Award in 2003, the IEEE Marconi Paper Prize Award in Wireless Communications in 2004, and the EURASIP Journal on Advances in Signal Processing Best Paper Award in 2008. He is an IEEE Fellow of class 2016.
+
+He was an Associate Editor for IEEE Transactions on Vehicular Technology, from 2004 to 2006, an Associate Editor for IEEE Signal Processing Letters from 2005 to 2008, an Associate Editor for IEEE Transactions on Signal Processing from 2013 to 2015. He currently serves as an Associate Editor for IEEE Transactions on Wireless Communications and an Editor for The IEEE Signal Processing Society Online Video Library. He was a Technical Program co-chair for GLOBECOM 2008 Wireless Communications Symposium, a Technical Program co-chair for WUWNet 2014, a Technical Area co-Chair on Wireless Communications for Asilomar Conference 2014, and the Publications and Publicity chair for IEEE GlobalSIP 2014. He was a member and the webmaster for the IEEE Signal Processing for Communication and Networking (SPCOM) Technical Committee from 2007 to 2012. He served as the Chair of the IEEE Joint Chapter on Communications, Signal Processing, Circuit and System; Central Iowa Section, IEEE Region 4 (Northern Midwest USA) from 2004 to 2006, and is serving again as the Chair from 2016. He has served as a Technical Committee member for many conferences throughout the years.
+
+His interests are in the areas of signal processing, communications, information theory, machine learning and their applications.
